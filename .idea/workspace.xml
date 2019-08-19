@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73ce86ce-a561-4f84-a736-c7896e13d839" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gamezone.php" beforeDir="false" afterPath="$PROJECT_DIR$/gamezone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/damage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5185">
+              <caret line="305" column="69" selection-start-line="305" selection-start-column="69" selection-end-line="305" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/equipment_report.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3910">
+              <caret line="230" column="114" selection-start-line="230" selection-start-column="114" selection-end-line="230" selection-end-column="114" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gamezone.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="229" column="96" selection-start-line="229" selection-start-column="96" selection-end-line="229" selection-end-column="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/damage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/revenue.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5950">
+              <caret line="350" selection-start-line="350" selection-end-line="350" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inc/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-975">
+              <caret line="402" column="74" selection-start-line="402" selection-start-column="74" selection-end-line="402" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/invoice_print.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>place</find>
+      <find>rated</find>
+      <find>Amount To Be Paid</find>
+      <find>clockpicker</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/add-user.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/revenue.php" />
+        <option value="$PROJECT_DIR$/inc/db.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/damage.php" />
+        <option value="$PROJECT_DIR$/inc/add_user.php" />
+        <option value="$PROJECT_DIR$/view_user.php" />
+        <option value="$PROJECT_DIR$/inc/add_game.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/gamezone.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="tanvir" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tanvir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tanvir" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tanvir" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tanvir" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tanvir" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73ce86ce-a561-4f84-a736-c7896e13d839" name="Default Changelist" comment="" />
+      <created>1548473990882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548473990882</updated>
+      <workItem from="1548473992695" duration="9037000" />
+      <workItem from="1549540187845" duration="1099000" />
+      <workItem from="1549712830742" duration="1256000" />
+      <workItem from="1549861670228" duration="2248000" />
+      <workItem from="1549954865740" duration="4275000" />
+      <workItem from="1549972755190" duration="897000" />
+      <workItem from="1550040434060" duration="1655000" />
+      <workItem from="1550056881939" duration="1622000" />
+      <workItem from="1550133326939" duration="2038000" />
+      <workItem from="1550290922636" duration="8284000" />
+      <workItem from="1550316654553" duration="2131000" />
+      <workItem from="1551511842107" duration="3326000" />
+      <workItem from="1551672498332" duration="1927000" />
+      <workItem from="1551674853600" duration="598000" />
+      <workItem from="1551776460381" duration="4097000" />
+      <workItem from="1551795740863" duration="150000" />
+      <workItem from="1551795921824" duration="569000" />
+      <workItem from="1551954982678" duration="2166000" />
+      <workItem from="1552974660348" duration="3890000" />
+    </task>
+    <task id="LOCAL-00001" summary="testing commit">
+      <created>1549698882994</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549698882994</updated>
+    </task>
+    <task id="LOCAL-00002" summary="index update(amim-9/2-5.57)">
+      <created>1549713459963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1549713459963</updated>
+    </task>
+    <task id="LOCAL-00003" summary="index update(amim-12 feb-1.00 pm)">
+      <created>1549954945394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549954945394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="index update(amim-12 feb-1.53 pm)">
+      <created>1549958016576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549958016577</updated>
+    </task>
+    <task id="LOCAL-00005" summary="index update(amim-12 feb-2.38 pm)">
+      <created>1549960715177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549960715177</updated>
+    </task>
+    <task id="LOCAL-00006" summary="index update(amim-12 feb-6.02 pm)">
+      <created>1549972977197</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1549972977197</updated>
+    </task>
+    <task id="LOCAL-00007" summary="index update(amim-13 feb-12.50 pm)">
+      <created>1550040641235</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1550040641238</updated>
+    </task>
+    <task id="LOCAL-00008" summary="success message update(amim-13 feb-1.20 pm)">
+      <created>1550042428037</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550042428037</updated>
+    </task>
+    <task id="LOCAL-00009" summary="success message update(amim-13 feb-1.20 pm)">
+      <created>1550042988263</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550042988263</updated>
+    </task>
+    <task id="LOCAL-00010" summary="success message update(amim-13 feb-1.20 pm)">
+      <created>1550043014247</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1550043014247</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" cost update(amim-13 feb-5.52 pm)">
+      <created>1550058796220</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1550058796220</updated>
+    </task>
+    <task id="LOCAL-00012" summary=" index lit update(amim-14 feb-2.56 pm)">
+      <created>1550134611613</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1550134611613</updated>
+    </task>
+    <task id="LOCAL-00013" summary=" huge update(amim-14 feb-4.55 pm)">
+      <created>1550141764822</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1550141764822</updated>
+    </task>
+    <task id="LOCAL-00014" summary=" index update(amim-16 feb-10.23am)">
+      <created>1550291045437</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1550291045437</updated>
+    </task>
+    <task id="LOCAL-00015" summary=" add user update(amim-16 feb-11.08am)">
+      <created>1550293719160</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1550293719160</updated>
+    </task>
+    <task id="LOCAL-00016" summary="failed msg update(amim-16 feb-11.34am)">
+      <created>1550295309228</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1550295309228</updated>
+    </task>
+    <task id="LOCAL-00017" summary="damage,cost update(amim-16 feb-11.48am)">
+      <created>1550296103275</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1550296103275</updated>
+    </task>
+    <task id="LOCAL-00018" summary=" update(amim-16 feb-12.30am)">
+      <created>1550298627566</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1550298627566</updated>
+    </task>
+    <task id="LOCAL-00019" summary=" update(amim-16 feb-12.30am)">
+      <created>1550298743294</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1550298743294</updated>
+    </task>
+    <task id="LOCAL-00020" summary=" update(amim-16 feb-12.30am)">
+      <created>1550299809973</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1550299809973</updated>
+    </task>
+    <task id="LOCAL-00021" summary=" update(amim-16 feb-3.19am)">
+      <created>1550308757457</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1550308757457</updated>
+    </task>
+    <task id="LOCAL-00022" summary=" update(amim-16 feb-3.19am)">
+      <created>1550309542342</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1550309542342</updated>
+    </task>
+    <task id="LOCAL-00023" summary=" update(amim-16 feb-3.19am)">
+      <created>1550309638494</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1550309638494</updated>
+    </task>
+    <task id="LOCAL-00024" summary=" update(amim-16 feb-3.37am)">
+      <created>1550309862791</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1550309862791</updated>
+    </task>
+    <task id="LOCAL-00025" summary=" update(amim-16 feb-3.37am)">
+      <created>1550310512477</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1550310512477</updated>
+    </task>
+    <task id="LOCAL-00026" summary=" update(amim-16 feb-5.37am)">
+      <created>1550317912342</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1550317912343</updated>
+    </task>
+    <task id="LOCAL-00027" summary=" update(note)(amim-  2 march-1.40pm)">
+      <created>1551512525521</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1551512525521</updated>
+    </task>
+    <task id="LOCAL-00028" summary=" update(note)(amim-  2 march-1.40pm)">
+      <created>1551522810003</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1551522810003</updated>
+    </task>
+    <task id="LOCAL-00029" summary=" add user(note)(amim-  4 march-10.28pm)">
+      <created>1551673748557</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1551673748558</updated>
+    </task>
+    <task id="LOCAL-00030" summary=" add user(note)(amim-  7 march-4.49pm)">
+      <created>1551955973722</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1551955973722</updated>
+    </task>
+    <task id="LOCAL-00031" summary=" add user(note)(amim-  7 march-4.49pm)">
+      <created>1551956455834</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1551956455834</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54430000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2987897" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.2123656" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3293011" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing commit" />
+    <MESSAGE value="index update(amim-9/2-5.57)" />
+    <MESSAGE value="index update(amim-12 feb-1.00 pm)" />
+    <MESSAGE value="index update(amim-12 feb-1.53 pm)" />
+    <MESSAGE value="index update(amim-12 feb-2.38 pm)" />
+    <MESSAGE value="index update(amim-12 feb-6.02 pm)" />
+    <MESSAGE value="index update(amim-13 feb-12.50 pm)" />
+    <MESSAGE value="success message update(amim-13 feb-1.20 pm)" />
+    <MESSAGE value=" cost update(amim-13 feb-5.52 pm)" />
+    <MESSAGE value=" index lit update(amim-14 feb-2.56 pm)" />
+    <MESSAGE value=" huge update(amim-14 feb-4.55 pm)" />
+    <MESSAGE value=" index update(amim-16 feb-10.23am)" />
+    <MESSAGE value=" add user update(amim-16 feb-11.08am)" />
+    <MESSAGE value="failed msg update(amim-16 feb-11.34am)" />
+    <MESSAGE value="damage,cost update(amim-16 feb-11.48am)" />
+    <MESSAGE value=" update(amim-16 feb-12.30am)" />
+    <MESSAGE value=" update(amim-16 feb-3.19am)" />
+    <MESSAGE value=" update(amim-16 feb-3.37am)" />
+    <MESSAGE value=" update(amim-16 feb-5.37am)" />
+    <MESSAGE value=" update(note)(amim-  2 march-1.40pm)" />
+    <MESSAGE value=" add user(note)(amim-  4 march-10.28pm)" />
+    <MESSAGE value=" add user(note)(amim-  7 march-4.49pm)" />
+    <option name="LAST_COMMIT_MESSAGE" value=" add user(note)(amim-  7 march-4.49pm)" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/locales/view_user.php" />
+    <entry file="file://$PROJECT_DIR$/add-user.php" />
+    <entry file="file://$PROJECT_DIR$/inc/add_equipment.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/add_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="72" column="119" selection-start-line="72" selection-start-column="119" selection-end-line="72" selection-end-column="119" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/get_capacity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/add_game.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/view_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10999">
+          <caret line="647" column="106" selection-start-line="647" selection-start-column="106" selection-end-line="647" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/damage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5185">
+          <caret line="305" column="69" selection-start-line="305" selection-start-column="69" selection-end-line="305" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/equipment_report.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3910">
+          <caret line="230" column="114" selection-start-line="230" selection-start-column="114" selection-end-line="230" selection-end-column="114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/damage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/revenue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5950">
+          <caret line="350" selection-start-line="350" selection-end-line="350" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/invoice_print.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-975">
+          <caret line="402" column="74" selection-start-line="402" selection-start-column="74" selection-end-line="402" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gamezone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="229" column="96" selection-start-line="229" selection-start-column="96" selection-end-line="229" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
