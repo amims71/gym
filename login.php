@@ -2,7 +2,7 @@
 session_start();
 
 //md5("abc");
-$con=mysqli_connect('localhost','techcity_apps','GaPlf748B5','techcity_apps');
+$con=mysqli_connect('localhost','user','pass','db');
 if (isset($_POST['name'])&&isset($_POST['pass'])) {
     if (!empty($_POST['name'])&&!empty($_POST['pass'])) {
         $email=$_POST['name'];
