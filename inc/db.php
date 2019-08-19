@@ -3,7 +3,7 @@
   session_start();
  }
 
- $con=mysqli_connect('localhost','techcity_apps','GaPlf748B5','techcity_apps');
+ $con=mysqli_connect('localhost','user','pass','pass');
 
 if ($con) {
 	//echo "success connect";
